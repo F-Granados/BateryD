@@ -1,2 +1,2 @@
 # BateryD
-Diseño de una Bateríaa
+Diseño de una Batería
