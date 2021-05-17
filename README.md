@@ -1,2 +1,2 @@
 # BateryD
-Plantilla de Diseño de vista
+Diseño de una Batería
